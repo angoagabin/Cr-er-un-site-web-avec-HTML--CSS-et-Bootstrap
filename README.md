@@ -3,3 +3,4 @@
 Travail sur du HTML
 Ajout d'une balise <meta> pour référencement
 Jour 2 suite de travail en html
+Jour 3 fin du travail en html
